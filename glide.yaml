@@ -1,0 +1,3 @@
+package: stash.ovh.net/metrics/fossil
+import:
+- package: stash.ovh.net/golang/logrus-thot-hook
